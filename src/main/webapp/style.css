@@ -1,0 +1,153 @@
+body,td {
+	font-family: tahoma;
+	font-size: 13px;
+}
+
+strong {
+	font-family: tahoma;
+	font-size: 11px;
+}
+
+A:link {
+	color: #7BA0D9;
+}
+
+A:visited {
+	color: #7BA0D9;
+}
+
+A:hover {
+	color: #F6E5D6;
+}
+
+A.w:link {
+	color: white;
+	font-size: smaller;
+}
+
+A.w:visited {
+	color: white;
+}
+
+A.w:hover {
+	color: #FFCC55;
+}
+
+A.menu:link {
+	color: #7BA0D9;
+}
+
+A.menu:visited {
+	color: #7BA0D9;
+}
+
+A.menu:hover {
+	color: #F6E5D6;
+}
+
+A.r:link {
+	color: #ff7722;
+	font-size: 13px;
+}
+
+A.r:visited {
+	color: #ff7722;
+	font-size: 13px;
+}
+
+A.r:hover {
+	color: red;
+	font-size: 13px;
+}
+
+img {
+	border-color: #36465E;
+}
+
+.menuli {
+	list-style-image: url(/design/menu-li.gif);
+}
+
+.li2 {
+	list-style-image: url(/design/li2.gif);
+}
+
+.t {
+	color: #FFCC55;
+	background-color: #202A3D;
+	font-size: 13px;
+}
+
+.tw {
+	background-color: #202A3D;
+	font-size: 13px;
+}
+
+.y {
+	color: #FFCC55;
+}
+
+.l0 {
+	background-color: #283449;
+	font-size: 13px;
+}
+
+.h {
+	color: #FFCC55;
+}
+
+.block {
+	background-color: #34312F;
+	padding: 20px;
+	font-size: 11px;
+}
+
+A.l:link,A.l:visited {
+	font-weight: bold;
+	color: #eefaff;
+	text-decoration: none;
+	font-family: tahoma;
+	font-size: 13px;
+}
+
+A.l:hover {
+	font-weight: bold;
+	color: #eefaff;
+	text-decoration: underline;
+	font-family: tahoma;
+	font-size: 13px;
+}
+
+.mapselect {
+	background: url(/design/bgr-dotter.gif);
+	cell-spacing: 0;
+	padding: 0px;
+	border: 1px dotted rgb(250, 0, 0);
+}
+
+tr.sec {
+    vertical-align: center;
+}
+td.sec {
+    height: 80px; 
+    width: 80px;
+}
+div.sec {
+    vertical-align: top;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+.secTitle {
+    color: white;
+    font-size: smaller;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: tahoma;
+}
+.secTitle:hover {
+    color: #FFCC55;
+    text-decoration: underline;
+    font-family: tahoma;
+    font-size: smaller;
+}

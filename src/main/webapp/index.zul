@@ -1,0 +1,124 @@
+<?page id="menup" title="JX_Market" contentType="text/html;charset=UTF-8"?>
+<zk xmlns:h="http://www.w3.org/1999/xhtml" xmlns:zk="http://www.zkoss.org/2005/zk">
+    <div id="w_in" use="org.jcs.esjp.ui.PO_Index" width="100%">
+    <style id="sT" src="style.css"/>
+
+<h:table cellspacing="0" cellpadding="0" border="0" width="100%">
+    <h:tbody><h:tr><h:td colspan="4" height="15"></h:td></h:tr>
+    <h:tr bgcolor="#111A26" height="32"><h:td bgcolor="#34445C"><h:img src="./images/1x1.gif" width="1" height="1" border="0" hspace="0" vspace="0"></h:img></h:td><h:td background="./images/table-1.gif"></h:td><h:td background="./images/table-1.gif" width="100%" align="right">
+
+    <h:table cellspacing="0" cellpadding="0" border="0" width="100%"><h:tbody><h:tr><h:td width="100%" align="left" valign="middle"><h:b>Universe map X3 Terran Conflict</h:b></h:td><h:td><a href="http://eng.x3tc.ru/"><h:img src="./images/table-2.gif" width="130" height="32" border="0" hspace="0" vspace="0"></h:img></a></h:td></h:tr></h:tbody></h:table>
+
+    </h:td><h:td bgcolor="#0C101D" valign="bottom"><h:img src="./images/table-3.gif" width="1" height="20" border="0" hspace="0" vspace="0"></h:img></h:td></h:tr>
+    <h:tr bgcolor="#151F2D"><h:td bgcolor="#34445C"><h:img src="./images/1x1.gif" width="1" height="1" border="0" hspace="0" vspace="0"></h:img></h:td><h:td></h:td><h:td width="100%">
+
+
+    <h:table cellspacing="0" cellpadding="0" border="0" width="100%"><h:tbody><h:tr><h:td height="10"></h:td></h:tr><h:tr><h:td width="100%">
+
+    <a href="http://eng.x3tc.ru/x3_tc_map/inf.php?4057"> </a><h:table border="1"></h:table>
+
+
+    <h:table cellspacing="1" cellpadding="0" border="0" background="./images/mapbgr.png" id="tableContent">
+    
+
+    </h:table>
+
+    <h:p>
+    <h:table cellspacing="0" cellpadding="0" border="0" bgcolor="#3A4B65">
+        <h:tbody>
+            <h:tr>
+                <h:td>
+                    <h:table cellspacing="1" cellpadding="5" border="0">
+                        <h:tbody>
+                            <h:tr>
+                                <h:td colspan="2" class="t">Sector's color:</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#333333">
+                                </h:td>
+                                <h:td class="l0">Unknown</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#005588">
+                                </h:td>
+                                <h:td class="l0">Argon</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#535008">
+                                </h:td>
+                                <h:td class="l0">Split</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#402542">
+                                </h:td>
+                                <h:td class="l0">Paranid</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#362080">
+                                </h:td>
+                                <h:td class="l0">Boron</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#1d401d">
+                                </h:td>
+                                <h:td class="l0">Teladi</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#5a1919">
+                                </h:td>
+                                <h:td class="l0">Xenon</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="black">
+                                </h:td>
+                                <h:td class="l0">Pirates</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#602e62">
+                                </h:td>
+                                <h:td class="l0">ATF</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#142c50">
+                                </h:td>
+                                <h:td class="l0">Terran</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#555555">
+                                </h:td>
+                                <h:td class="l0">Yaki</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#aa0520">
+                                </h:td>
+                                <h:td class="l0">Kha'ak</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#443322">
+                                </h:td>
+                                <h:td class="l0">Goner</h:td>
+                            </h:tr>
+                            <h:tr>
+                                <h:td bgcolor="#23305a">
+                                </h:td>
+                                <h:td class="l0">OTAS</h:td>
+                            </h:tr>
+                        </h:tbody>
+                    </h:table>
+                </h:td>
+            </h:tr>
+        </h:tbody>
+    </h:table>
+
+    </h:p></h:td><h:td width="9"><h:img src="./images/1x1.gif" width="10" height="1" border="0" hspace="0" vspace="0"></h:img></h:td></h:tr></h:tbody></h:table>
+
+    </h:td><h:td width="1" bgcolor="#34445C"><h:img src="./images/1x1.gif" width="1" height="1" border="0" hspace="0" vspace="0"></h:img></h:td></h:tr>
+    <h:tr bgcolor="#151F2D"><h:td bgcolor="#0C101D"><h:img src="./images/1x1.gif" width="1" height="1" border="0" hspace="0" vspace="0"></h:img></h:td><h:td><h:img src="./images/table-4.gif" width="13" height="13" border="0" hspace="0" vspace="0"></h:img></h:td><h:td align="right"><h:img src="./images/table-5.gif" width="13" height="13" border="0" hspace="0" vspace="0"></h:img></h:td><h:td bgcolor="#0C101D"></h:td></h:tr>
+    <h:tr bgcolor="#151F2D" height="1"><h:td height="1" bgcolor="#0C101D"></h:td><h:td bgcolor="#0C101D"></h:td><h:td bgcolor="#34445C" width="100%"><h:table cellspacing="0" cellpadding="0" border="0" width="100%"><h:tbody><h:tr><h:td bgcolor="#34445C" width="100%"></h:td><h:td bgcolor="#0C101D"><h:img src="./images/1x1.gif" width="13" height="1" border="0" hspace="0" vspace="0"></h:img></h:td></h:tr></h:tbody></h:table></h:td><h:td bgcolor="#0C101D"></h:td></h:tr>
+    </h:tbody>
+
+    </h:table>
+
+
+    </div>
+</zk>

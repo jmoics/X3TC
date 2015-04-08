@@ -1,0 +1,8 @@
+<?page title="Data de Sector" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="Data de Sector" border="normal" id="sectorModal" use="org.jcs.esjp.ui.PO_SectorData"
+        position="center,center" 
+        closable="true" width="1000px" action="show: slideDown;hide: slideUp">
+    
+</window>
+</zk>
